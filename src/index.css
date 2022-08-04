@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+  .card-desc a {
+    @apply underline text-zinc-800 hover:text-zinc-600 transition-colors
+  }
+
+}
