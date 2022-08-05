@@ -3,7 +3,7 @@ import Project from './components/Project';
 import Job from './components/Job';
 import software from './software';
 import jobs from './jobs';
-import resume from '../public/resume.pdf';
+import resume from './resume.pdf';
 
 const App = () => {
   const thisYear = () => {
