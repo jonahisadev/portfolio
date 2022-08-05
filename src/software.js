@@ -19,6 +19,7 @@ const software = [
       to new releases, where fans can decide which platform to listen on, or
       link your profile to find everything! This is written in a
       <a href="https://github.com/jonahisadev/vvphp">custom framework</a>.
+      Check out the <a href="https://github.com/jonahisadev/justlisten">repository</a>!
     `,
     href: 'https://justlisten.me'
   },
