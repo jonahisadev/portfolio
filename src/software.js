@@ -2,18 +2,18 @@ const software = [
   {
     title: 'Cube With Me',
     variant: 'blue',
-    tags: [ 'Javascript', 'Express', 'MongoDB', 'WebSockets' ],
+    tags: ['Javascript', 'React', 'Express', 'PostgreSQL', 'WebSockets'],
     desc: `
       A place for speed cubers to race head-to-head in real time!
       The site has over 200 registered users, and has support
       for realtime play/chat via WebSockets, spectating, and 2FA.
     `,
-    href: 'https://cubewithme.com'
+    href: 'https://github.com/jonahisadev/cubewithme'
   },
   {
     title: 'Just Listen',
     variant: 'pink',
-    tags: [ 'PHP', 'Custom Framework', 'MySQL' ],
+    tags: ['PHP', 'Custom Framework', 'MySQL'],
     desc: `
       A website for musicians to consolidate their entire discography. Link
       to new releases, where fans can decide which platform to listen on, or
@@ -26,7 +26,7 @@ const software = [
   {
     title: 'Now Playing',
     variant: 'green',
-    tags: [ 'Javascript', 'Express', 'Spotify', 'MongoDB' ],
+    tags: ['Javascript', 'Express', 'Spotify', 'MongoDB'],
     desc: `
       This was a small project I made, mostly as a proof-of-concept. You can
       connect your Spotify account to the application, and then link an
@@ -39,7 +39,7 @@ const software = [
   {
     title: 'JEngine2D',
     variant: 'purple',
-    tags: [ 'C++', 'Game Engine', 'OpenGL', 'GLFW' ],
+    tags: ['C++', 'Game Engine', 'OpenGL', 'GLFW'],
     desc: `
       This is a homebrew game engine I created mostly for Ludum Dare
       game jams. It runs on OpenGL 3.3. Some features include spritesheets,
@@ -50,7 +50,7 @@ const software = [
   {
     title: 'TreeMe',
     variant: 'orange',
-    tags: [ 'Java', 'Minecraft', 'Algorithms', 'OSS' ],
+    tags: ['Java', 'Minecraft', 'Algorithms', 'OSS'],
     desc: `
       This Minecraft plugin allows users to break trees with one axe cut.
       There were no comparable plugins at the time. I implemented a DFS
@@ -85,6 +85,6 @@ const software = [
     `,
     href: 'https://github.com/jonahisadev/portfolio'
   }
-]
+];
 
 export default software;
