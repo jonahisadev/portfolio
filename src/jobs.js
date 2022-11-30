@@ -32,14 +32,6 @@ const jobs = [
     img: 'wwt'
   },
   {
-    company: 'Gravity Wiz',
-    title: 'Software Engineer',
-    tags: ['PHP', 'Wordpress', 'Vue', 'Gravity Forms'],
-    length: fmt_tenure('12/2021', '02/2022'),
-    current: false,
-    img: 'gravitywiz'
-  },
-  {
     company: 'DataAutomation',
     title: 'Backend Developer',
     tags: ['PHP', 'AWS'],
