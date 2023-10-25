@@ -24,11 +24,19 @@ const jobs = [
     img: 'uis'
   },
   {
+    company: 'Mastercard',
+    title: 'Senior Software Engineer',
+    tags: ['Spring Boot', 'Javascript', 'Cryptography'],
+    length: fmt_tenure('08/2023', 'now'),
+    current: true,
+    img: 'mc'
+  },
+  {
     company: 'World Wide Technology',
     title: 'Software Engineer II',
     tags: ['React', 'Vue', 'Javascript', 'Agile'],
-    length: fmt_tenure('02/2022', 'now'),
-    current: true,
+    length: fmt_tenure('02/2022', '08/2023'),
+    current: false,
     img: 'wwt'
   },
   {
