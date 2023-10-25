@@ -43,7 +43,7 @@ const App = () => {
               Resumé
             </a>
             <a
-              href="mailto:jonahisadev@gmail.com"
+              href="mailto:mail@byjonah.net"
               className="mr-5"
             >
               Email
