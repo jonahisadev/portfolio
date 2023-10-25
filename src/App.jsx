@@ -93,7 +93,7 @@ const App = () => {
       </h3>
       <p className="px-5 text-xl md:w-2/3 md:mx-auto mb-5">
         <a
-          href="mailto:jonahisadev@gmail.com"
+          href="mailto:mail@byjonah.net"
           className="text-zinc-400 underline hover:text-zinc-300 transition-colors"
         >
           Shoot me an email{' '}
