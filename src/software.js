@@ -34,16 +34,15 @@ const software = [
     href: "https://github.com/jonahisadev/justlisten",
   },
   {
-    title: "Now Playing",
+    title: "Lispy",
     variant: "green",
-    tags: ["Javascript", "Express", "Spotify", "MongoDB"],
+    tags: ["C++", "Programming Language", "Parser"],
     desc: `
-      This was a small project I made, mostly as a proof-of-concept. You can
-      connect your Spotify account to the application, and then link an
-      overlay in software like OBS to display on a live stream the song you're
-      currently listening to on Spotify.
+      Lispy is an interpreted toy programming language that I wrote mostly
+      as a proof of concept. It supports control flow, functions, conditionals,
+      vectors, lists, and more! Take a look at the repo to see what it can do.
     `,
-    href: "https://github.com/jonahisadev/nowplaying",
+    href: "https://github.com/jonahisadev/lispy",
   },
   {
     title: "JEngine2D",
