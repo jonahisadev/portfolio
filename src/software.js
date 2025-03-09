@@ -22,16 +22,15 @@ const software = [
     href: "https://github.com/jonahisadev/tinyrsa",
   },
   {
-    title: "Just Listen",
+    title: "pwds",
     variant: "pink",
-    tags: ["PHP", "Custom Framework", "MySQL"],
+    tags: ["C++", "PKCS11", "SQLite", "NSS"],
     desc: `
-      A website for musicians to consolidate their entire discography. Link
-      to new releases, where fans can decide which platform to listen on, or
-      link your profile to find everything! This is written in a
-      <a href="https://github.com/jonahisadev/vvphp">custom framework</a>.
+      A simple password manager that uses PKCS11 to store passwords. Vaults
+      are implemented with NSS databases. Built with a fully featured command 
+      line interface and limited support for cloud sync.
     `,
-    href: "https://github.com/jonahisadev/justlisten",
+    href: "https://github.com/jonahisadev/pwds",
   },
   {
     title: "Lispy",
